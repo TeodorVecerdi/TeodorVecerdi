@@ -1,10 +1,10 @@
 <p align="center">
-<img src="assets/readme_title.png"/>
+<img height=500 src="assets/readme_title.png"/>
 </p>
 
 <h2 align="center">About me</h2>
 <p align="justify">I'm a second year Game Engineering student at Saxion. I'm passionate about tooling / creating editor tools in general, and also about the more technical aspects that go into creating a game.</p>
-<br><br>
+
 <h2 align="center">You can reach me at</h2>
 <p align="center">
   <a href="https://github.com/TeodorVecerdi">
