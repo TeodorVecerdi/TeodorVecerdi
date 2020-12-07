@@ -76,11 +76,11 @@ My main tasks were implementing the server that would handle communication and s
 </table>
 <br>
 
-<p align="center">
+<h2 align="center">
 If you like what I do, consider buying me a coffee!
 <br>
 <a href="https://ko-fi.com/teodorvecerdi">
-<img height=24 src="https://www.ko-fi.com/img/githubbutton_sm.svg">
+<img height=32 src="https://www.ko-fi.com/img/githubbutton_sm.svg">
 </a>
 </p>
 
