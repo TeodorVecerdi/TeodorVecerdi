@@ -54,9 +54,9 @@ Overall I'm a lot more happier with how this project turned out, both in terms o
 <td align="justify">This course's task was to procedurally generate a city based on a chosen theme (I chose Witcher 3's Novigrad) and my procedural generation approach was full mesh generation. Besides mesh generation I created another tool that would help me place down where buildings should be generated.</td>
 </tr>
 <tr>
-<td align="justify">I was the only engineer in a multi-disciplinary team where we had to develop an app or game that would bring a client's activity into the living room of their target group (during the corona lockdown). We chose to create an app called BarHub where people would create/join rooms in a typical match-making style at different bars througout the city of Enschede where they could talk, play miniganes and listen to music together.
+<td align="justify">I was the only engineer in a multi-disciplinary team where we had to develop an app or game that would bring a client's activity into the living room of their target group (during the corona lockdown). We chose to create an app called BarHub where people would create/join rooms in a typical match-making style at different bars throughout the city of Enschede where they could talk, play minigames and listen to music together.
 
-My main tasks were implementing the server that would handle communication and synchronization between clients, and the client itself: a unity game. For the client I worked on programming and UI design.</td>
+My main tasks were implementing the server that would handle communication and synchronization between clients, and the client itself: a game made using a game engine developed by Saxion called GXPEngine.</td>
 <td align="center">
 <a href="https://github.com/TeodorVecerdi/saxion_project_final_approach" target="_blank"><img height=100% src="https://github-readme-stats.vercel.app/api/pin/?username=teodorvecerdi&repo=saxion_project_final_approach&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffdddd"/></a>
 </td>
