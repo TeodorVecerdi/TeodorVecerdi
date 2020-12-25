@@ -16,9 +16,6 @@
   <a href="https://stackoverflow.com/users/5181524/teodor-vecerdi">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Teodor Vecerdi's Stack Overflow Profile" height="30" width="30">
   </a>
-  <a href="https://ko-fi.com/teodorvecerdi">
-    <img src="assets/ko-fi_logo.png" alt="Teodor Vecerdi's Ko-fi page" height="30" width="30">
-  </a>
   <a href="https://teodorvecerdi.itch.io">
     <img src="assets/itch_io_logo.svg" alt="Teodor Vecerdi's itch.io page" height="30" width="30">
   </a>
