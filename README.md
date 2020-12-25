@@ -35,14 +35,6 @@
 <td align="center">
 <a href="https://github.com/TeodorVecerdi/CodeGraph" target="_blank"><img height=100% src="https://github-readme-stats.vercel.app/api/pin/?username=teodorvecerdi&repo=codegraph&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffdddd"/></a>
 </td>
-<td align="justify"><p>Developing CodeGraph was my first experience with creating editor tooling and my first time working with the, at the time, buggy and experimental libraries UIElements and GraphView from Unity. 
-
-CodeGraph, while never finished, provided a friendly node-based interface that generates C# classes to be used in Unity.</p></td>
-</tr>
-<tr>
-<td align="justify">DialogueGraph was my attempt at learning more about the frameworks I used to implement CodeGraph, as well as learning more about editor tooling, usability and advanced features. I chose to create this editor tool as part of a self-defined learning outcome for one of my courses at Saxion. 
-
-Overall I'm a lot more happier with how this project turned out, both in terms of the tool I created, and in terms of what I learned while creating it.</td>
 <td align="center">
 <a href="https://github.com/TeodorVecerdi/DialogueGraph" target="_blank"><img height=100% src="https://github-readme-stats.vercel.app/api/pin/?username=teodorvecerdi&repo=dialoguegraph&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffdddd"/></a>
 </td>
@@ -51,12 +43,6 @@ Overall I'm a lot more happier with how this project turned out, both in terms o
 <td align="center">
 <a href="https://github.com/TeodorVecerdi/saxion_procedural_art" target="_blank"><img height=100% src="https://github-readme-stats.vercel.app/api/pin/?username=teodorvecerdi&repo=saxion_procedural_art&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffdddd"/></a>
 </td>
-<td align="justify">This course's task was to procedurally generate a city based on a chosen theme (I chose Witcher 3's Novigrad) and my procedural generation approach was full mesh generation. Besides mesh generation I created another tool that would help me place down where buildings should be generated.</td>
-</tr>
-<tr>
-<td align="justify">I was the only engineer in a multi-disciplinary team where we had to develop an app or game that would bring a client's activity into the living room of their target group (during the corona lockdown). We chose to create an app called BarHub where people would create/join rooms in a typical match-making style at different bars throughout the city of Enschede where they could talk, play minigames and listen to music together.
-
-My main tasks were implementing the server that would handle communication and synchronization between clients, and the client itself: a game made using a game engine developed by Saxion called GXPEngine.</td>
 <td align="center">
 <a href="https://github.com/TeodorVecerdi/saxion_project_final_approach" target="_blank"><img height=100% src="https://github-readme-stats.vercel.app/api/pin/?username=teodorvecerdi&repo=saxion_project_final_approach&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffdddd"/></a>
 </td>
@@ -65,10 +51,6 @@ My main tasks were implementing the server that would handle communication and s
 <td align="center">
 <a href="https://github.com/TeodorVecerdi/saxion_physics_programming" target="_blank"><img height=100% src="https://github-readme-stats.vercel.app/api/pin/?username=teodorvecerdi&repo=saxion_physics_programming&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffdddd"/></a>
 </td>
-<td align="justify">During this course I learned all about 2D physics by completing different assignments and finishing with a physics-based prototype of a tank game with destructible environment.</td>
-</tr>
-<tr>
-<td align="justify">The task of this course was developing a small turn-based fight game in C++. It was my first experience working with C++ since highschool and a great learning experience. I developed a small "engine" on top of SFML.</td>
 <td align="center">
 <a href="https://github.com/TeodorVecerdi/saxion_cplusplus" target="_blank"><img height=100% src="https://github-readme-stats.vercel.app/api/pin/?username=teodorvecerdi&repo=saxion_cplusplus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffdddd"/></a>
 </td>
