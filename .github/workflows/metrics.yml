@@ -38,7 +38,6 @@ jobs:
           plugin_languages_ignored: java,shaderlab
           plugin_languages_limit: 6
           plugin_languages_threshold: 1%
-          plugin_lines: yes
           plugin_notable: yes
           plugin_notable_repositories: yes
           plugin_projects: yes
