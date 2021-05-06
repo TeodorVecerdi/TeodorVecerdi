@@ -1,5 +1,6 @@
-<div align="center">
+<div  align="center">
 
-![Metrics](https://github.com/TeodorVecerdi/TeodorVecerdi/blob/main/github-metrics.svg)
+<img width="90%" alt="Metrics" src="https://github.com/TeodorVecerdi/TeodorVecerdi/blob/main/github-metrics.svg"/>
+
 
 </div>
