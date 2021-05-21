@@ -19,11 +19,6 @@ jobs:
           user: TeodorVecerdi
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Bucharest
-          plugin_habits: yes
-          plugin_habits_days: 28
-          plugin_habits_facts: yes
-          plugin_habits_from: 512
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -35,9 +30,6 @@ jobs:
           plugin_languages_threshold: 1%
           plugin_notable: yes
           plugin_notable_repositories: yes
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 4
           plugin_followup: yes
           plugin_followup_sections: user
           repositories: 500
