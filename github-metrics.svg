@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1113" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1095" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">VR Developer at Mondly 🥽 | Game Development Student at Saxion University of Applied Sciences 🔨</div>
+                        <div class="introduction">VR Developer at Mondly 🥽</div>
                     </section>
                 </div>
             </section>
@@ -2437,7 +2437,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jul 2023, 06:15:35  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jul 2023, 12:23:49  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
