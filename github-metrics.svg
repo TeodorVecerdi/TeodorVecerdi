@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Unity and .NET Developer at Mondly 🥽</div>
+                        <div class="introduction">Unity and .NET Developer at Mondly by Pearson 🥽</div>
                     </section>
                 </div>
             </section>
@@ -2767,7 +2767,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 527k out of 224m repositories</span>
+                                    <span class="gh">ranked 527k out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 24 times</div>
                             </div>
@@ -2857,7 +2857,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 229k out of 224m repositories</span>
+                                    <span class="gh">ranked 229k out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 186 stars</div>
                             </div>
@@ -3039,7 +3039,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2024, 12:06:57  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2024, 18:05:16  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
