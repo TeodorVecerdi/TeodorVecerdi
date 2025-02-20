@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          config_timezone: Europe/Bucharest
           user: TeodorVecerdi
           template: classic
           base: header, activity, community, repositories, metadata
@@ -35,9 +36,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_achievements: yes
-          plugin_notable: yes
-          plugin_notable_repositories: yes
           plugin_followup: yes
           plugin_followup_sections: user
-          repositories: 500
+          repositories: 1000
           repositories_forks: yes
