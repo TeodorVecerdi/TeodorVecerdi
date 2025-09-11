@@ -334,9 +334,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.762322931651" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="390.762322931651" y="0" width="60.078826024519515" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.84114895617057" y="0" width="9.158851043829474" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.76229874118167" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="390.76229874118167" y="0" width="60.078847015041724" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.8411457562234" y="0" width="9.158854243776592" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2745,7 +2745,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 342k out of 178m users</span>
+                                    <span class="gh">ranked 343k out of 178m users</span>
                                 </div>
                                 <div class="text">Followed by 48 users</div>
                             </div>
@@ -3039,7 +3039,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Sept 2025, 09:13:52 (timezone Europe/Bucharest) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Sept 2025, 15:14:49 (timezone Europe/Bucharest) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
