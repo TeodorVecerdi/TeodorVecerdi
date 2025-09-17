@@ -235,13 +235,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="20.81081081081081" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="20.81081081081081" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="20.81081081081081" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="20.81081081081081" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="20.81081081081081" y="0" width="196.21621621621622" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="217.02702702702703" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="217.02702702702703" y="0" width="2.9729729729729732" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="21.0958904109589" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="21.0958904109589" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="21.0958904109589" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="21.0958904109589" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="21.0958904109589" y="0" width="198.9041095890411" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -269,7 +269,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8B949E" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm3.28 5.78a.75.75 0 00-1.06-1.06l-5.5 5.5a.75.75 0 101.06 1.06l5.5-5.5z"/>
                                 </svg>
-                                <span class="no-wrap">1 <small>skipped</small></span>
+                                <span class="no-wrap">0 <small>skipped</small></span>
                             </div>
                         </div>
                     </section>
@@ -2495,7 +2495,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 656k out of 178m users</span>
+                                    <span class="gh">ranked 657k out of 179m users</span>
                                 </div>
                                 <div class="text">Published 58 public repositories</div>
                             </div>
@@ -2740,7 +2740,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 344k out of 178m users</span>
+                                    <span class="gh">ranked 344k out of 179m users</span>
                                 </div>
                                 <div class="text">Followed by 48 users</div>
                             </div>
@@ -3034,7 +3034,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Sept 2025, 09:14:37 (timezone Europe/Bucharest) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Sept 2025, 15:15:03 (timezone Europe/Bucharest) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
