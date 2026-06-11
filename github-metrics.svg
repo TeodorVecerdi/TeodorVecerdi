@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Unity and .NET Developer at Pearson working on Mondly VR 🥽</div>
+                        <div class="introduction">Unity and .NET Developer</div>
                     </section>
                 </div>
             </section>
@@ -2444,7 +2444,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 704k out of 221m users</span>
+                                    <span class="gh">ranked 705k out of 221m users</span>
                                 </div>
                                 <div class="text">Published 60 public repositories</div>
                             </div>
@@ -2687,7 +2687,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 245k out of 324m repositories</span>
+                                    <span class="gh">ranked 245k out of 325m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 216 stars</div>
                             </div>
@@ -2902,7 +2902,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2026, 16:27:58 (timezone Europe/Bucharest) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Jun 2026, 22:08:40 (timezone Europe/Bucharest) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
